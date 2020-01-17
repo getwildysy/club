@@ -1,5 +1,5 @@
 <?php
 phpinfo();
-$a=123;
+$a=456;
 echo $a;
 ?>
