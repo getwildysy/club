@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\pythonw.exe",
+    "window.zoomLevel": 1,
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "open-in-browser.default": "Chrome",
+    "php.executablePath":"C:\\xampp\\php\\php.exe",
+    "php.suggest.basic": false,
+}
